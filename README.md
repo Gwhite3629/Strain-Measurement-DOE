@@ -1,5 +1,5 @@
 # Introduction:
-This is a program to measure voltage froma Tektronix TDS1000 oscilloscope. The program is structured to measure according to user defined parameters that are set in the `config.cfg` file.
+This is a program to measure voltage from a Tektronix TDS1000 oscilloscope. The program is structured to measure according to user defined parameters that are set in the `config.cfg` file.
 
 # Usage:
 ## Running:
